@@ -1,4 +1,4 @@
-##  How to Set Up This Express Backend Boilerplate
+# How to Set Up This Express Backend Boilerplate
 
 Follow these steps to create and run this backend project from scratch:
 
